@@ -31,6 +31,9 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="Gomez Iglesias - Primer Parcial Lab 1.cbp" />
+		<Unit filename="Gomez Iglesias - Primer Parcial Lab 1.depend" />
+		<Unit filename="Gomez Iglesias - Primer Parcial Lab 1.layout" />
 		<Unit filename="Input.c">
 			<Option compilerVar="CC" />
 		</Unit>
@@ -39,6 +42,10 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="auto.h" />
+		<Unit filename="cliente.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cliente.h" />
 		<Unit filename="color.c">
 			<Option compilerVar="CC" />
 		</Unit>
@@ -51,6 +58,10 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="fecha.h" />
+		<Unit filename="informes.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="informes.h" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
